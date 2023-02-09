@@ -5,7 +5,7 @@ while(True):
     if num == -1:
         break
     dirtn = []
-    #약수구하기
+    
     for i in range(1,int(sqrt(num))+1):
         if i == 1:
             dirtn.append(i)
