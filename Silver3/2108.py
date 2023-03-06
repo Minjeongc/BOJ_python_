@@ -19,5 +19,3 @@ if __name__ == "__main__":
     else:
         print(cnt[0][0])
     print(max(n) - min(n))
-
-# from collections import Counter 공부. 
